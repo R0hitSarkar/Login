@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/R0hitSarkar/Login/static/css/main.8a0be825.chunk.css",
+    "main.js": "/R0hitSarkar/Login/static/js/main.ea86603e.chunk.js",
+    "main.js.map": "/R0hitSarkar/Login/static/js/main.ea86603e.chunk.js.map",
+    "runtime-main.js": "/R0hitSarkar/Login/static/js/runtime-main.67e3e2aa.js",
+    "runtime-main.js.map": "/R0hitSarkar/Login/static/js/runtime-main.67e3e2aa.js.map",
+    "static/js/2.6f2790a5.chunk.js": "/R0hitSarkar/Login/static/js/2.6f2790a5.chunk.js",
+    "static/js/2.6f2790a5.chunk.js.map": "/R0hitSarkar/Login/static/js/2.6f2790a5.chunk.js.map",
+    "static/js/3.27cf5bc0.chunk.js": "/R0hitSarkar/Login/static/js/3.27cf5bc0.chunk.js",
+    "static/js/3.27cf5bc0.chunk.js.map": "/R0hitSarkar/Login/static/js/3.27cf5bc0.chunk.js.map",
+    "index.html": "/R0hitSarkar/Login/index.html",
+    "static/css/main.8a0be825.chunk.css.map": "/R0hitSarkar/Login/static/css/main.8a0be825.chunk.css.map",
+    "static/js/2.6f2790a5.chunk.js.LICENSE.txt": "/R0hitSarkar/Login/static/js/2.6f2790a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67e3e2aa.js",
+    "static/js/2.6f2790a5.chunk.js",
+    "static/css/main.8a0be825.chunk.css",
+    "static/js/main.ea86603e.chunk.js"
+  ]
+}
